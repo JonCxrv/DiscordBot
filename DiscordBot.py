@@ -55,4 +55,4 @@ async def current_time():
     await channel.send ('Data Atual: ' + now )
 
 
-bot.run('ODk5Mjg4MDg2ODk3MzgxNDA2.YWwlSw.fOk1hJyzxWbszK41nTJbbu_cktA')
+bot.run('token')
